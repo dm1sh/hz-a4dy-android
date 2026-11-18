@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "url": "https://android.googlesource.com/platform/frameworks/base/+/refs/tags/android-12.0.0_r1/packages/PrintSpooler/src/com/android/printspooler/ui/PrintActivity.java",
+      "local_observation": "DocumentTransformer.doTransform removes unselected pages; updatePrintJob, lines 3240\u20133244, resets ranges to ALL_PAGES."
+    },
+    {
+      "url": "https://android.googlesource.com/platform/frameworks/base/+/refs/heads/main/packages/PrintSpooler/src/com/android/printspooler/ui/PrintActivity.java",
+      "local_observation": "Same removePages + updatePrintJob behavior, lines 3203\u20133258. This mutable branch was inspected in the build session."
+    },
+    {
+      "url": "https://developer.android.com/reference/android/printservice/PrintDocument",
+      "local_observation": "All accessors main thread; getData may be null; caller owns and closes descriptor."
+    }
+  ],
+  "decision": "Use delivered PDF page indices and PrintJobInfo.pages once, never the pre-spooler UI range. Expand PrintJobInfo.copies once in software, collated. Android PrintService has no general collate control; standalone app offers both orders.",
+  "hardware_or_os_spooler_integration_tested": false
+}

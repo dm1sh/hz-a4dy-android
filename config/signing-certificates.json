@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "recorded_date": "2026-11-17",
+  "note": "Public certificate fingerprints only. Private keys and passwords are never committed.",
+  "release": {
+    "certificate_sha256": "773acba5e6b422c47ce3be57f56dd989b4f140cc7b72eb965999b825814fa842",
+    "subject": "CN=A4DY Print Release",
+    "algorithm": "RSA 4096 / SHA-256",
+    "not_after_utc": "2056-11-18T01:23:45+00:00",
+    "application_id": "app.a4dy.print"
+  },
+  "debug": {
+    "certificate_sha256": "24db5c9298da3dbc8a9333a46f81f5609b3401bd1845dc31f0c250f10518333f",
+    "subject": "CN=A4DY Print CI Debug",
+    "algorithm": "RSA 4096 / SHA-256",
+    "not_after_utc": "2056-11-18T01:23:45+00:00",
+    "application_id": "app.a4dy.print.debug"
+  }
+}

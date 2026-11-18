@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.a4dy.print.StoreAndServiceTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2026-11-18T00:26:53.511Z" hostname="e2b.local" time="12.464">
+  <properties/>
+  <testcase name="remainingSpoolerRangesAreAppliedOnce[31]" classname="app.a4dy.print.StoreAndServiceTest" time="3.063"/>
+  <testcase name="remainingSpoolerRangesAreAppliedOnce" classname="app.a4dy.print.StoreAndServiceTest" time="8.598"/>
+  <testcase name="historyIsBoundedAndClearable[31]" classname="app.a4dy.print.StoreAndServiceTest" time="0.136"/>
+  <testcase name="historyIsBoundedAndClearable" classname="app.a4dy.print.StoreAndServiceTest" time="0.121"/>
+  <testcase name="manifestContainsServiceAndNoInternetOrLocationPermission[31]" classname="app.a4dy.print.StoreAndServiceTest" time="0.062"/>
+  <testcase name="manifestContainsServiceAndNoInternetOrLocationPermission" classname="app.a4dy.print.StoreAndServiceTest" time="0.074"/>
+  <testcase name="optionsRoundTrip[31]" classname="app.a4dy.print.StoreAndServiceTest" time="0.039"/>
+  <testcase name="optionsRoundTrip" classname="app.a4dy.print.StoreAndServiceTest" time="0.071"/>
+  <testcase name="corruptPreferencesRecoverToSafeDefaults[31]" classname="app.a4dy.print.StoreAndServiceTest" time="0.048"/>
+  <testcase name="corruptPreferencesRecoverToSafeDefaults" classname="app.a4dy.print.StoreAndServiceTest" time="0.042"/>
+  <testcase name="printerAndPrivacyPreferencesPersist[31]" classname="app.a4dy.print.StoreAndServiceTest" time="0.023"/>
+  <testcase name="printerAndPrivacyPreferencesPersist" classname="app.a4dy.print.StoreAndServiceTest" time="0.031"/>
+  <testcase name="invalidSpoolerRangeFailsInsteadOfPrintingWrongPage[31]" classname="app.a4dy.print.StoreAndServiceTest" time="0.019"/>
+  <testcase name="invalidSpoolerRangeFailsInsteadOfPrintingWrongPage" classname="app.a4dy.print.StoreAndServiceTest" time="0.021"/>
+  <testcase name="logIsBoundedAndRedactsAddresses[31]" classname="app.a4dy.print.StoreAndServiceTest" time="0.029"/>
+  <testcase name="logIsBoundedAndRedactsAddresses" classname="app.a4dy.print.StoreAndServiceTest" time="0.028"/>
+  <testcase name="spoolerAlreadySelectedPdfIsNotSelectedAgain[31]" classname="app.a4dy.print.StoreAndServiceTest" time="0.024"/>
+  <testcase name="spoolerAlreadySelectedPdfIsNotSelectedAgain" classname="app.a4dy.print.StoreAndServiceTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

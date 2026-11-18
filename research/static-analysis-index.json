@@ -1,0 +1,79 @@
+{
+  "vendor": "HyPrint 1.4.9+26; com.hztz.Hprint",
+  "tools": {
+    "jadx": "1.5.3; 13 methods initially failed, repaired branch conclusions with Smali",
+    "baksmali": "2.5.2",
+    "enjarify": "1.0.3 --fast; isolated class only executed with original offline stubs"
+  },
+  "family": {
+    "path": "assets/flutter_assets/update.json",
+    "dy": "XL-P801|XL-A401D|GD|S8|AT-BI|HM-|IM.XL04|EMP26|A4DY|A4RJ|A4DH|A4DL|A4DU|A4XT|A4XR",
+    "separate_300dpi": "XL-P801S|XL-P801P|GD-88H|A4[A-Z]{2}-Pro|A401S|A403S|LT-D80S"
+  },
+  "anchors": [
+    {
+      "class": "M2/a",
+      "method": "run, synthetic selector 1",
+      "observations": [
+        "paperType fetched into v11 (DEX logical lines 36–47)",
+        "bitmap row bytes ceil(width/8), 1=black, MSB first",
+        "default DeflaterOutputStream; compressed array first 2 bytes omitted, trailer retained",
+        "1F00, BE16 row bytes, BE16 height, BE32 payload length",
+        "paperType == 1 sends 1B4A64, otherwise 1F122002; DEX logical lines 350–419",
+        "10FFFE01 start and 10FFFE45 end"
+      ]
+    },
+    {
+      "class": "J/d",
+      "observations": [
+        "DyPrinter method bridge",
+        "Query commands, density command and print argument forwarding"
+      ]
+    },
+    {
+      "class": "A0/c",
+      "method": "a(Message)",
+      "observations": [
+        "Current method routes reply interpretation; serialize requests",
+        "Exact status values, AA/OK acknowledgement, FD and FF+code errors",
+        "Battery units not established; firmware/serial use GB2312"
+      ]
+    },
+    {
+      "class": "o2/j",
+      "method": "r(byte[])",
+      "observations": [
+        "1024-byte chunks, 1 ms sleep before writes"
+      ]
+    },
+    {
+      "class": "A0/a",
+      "method": "run, A0.e receiver branch",
+      "observations": [
+        "Smali DEX logical lines 695–765 resolves invalid JADX loop",
+        "sleep 100 ms; InputStream.available then one read; no delimiter found",
+        "repeat until available or approximately 2000 ms, then deliver Message.what=16"
+      ]
+    },
+    {
+      "class": "M2/a + A0/e",
+      "observations": [
+        "Secure RFCOMM SPP UUID 00001101-0000-1000-8000-00805F9B34FB",
+        "Vendor reflection fallback channel 1 is NOT implemented in the new app; optional insecure SPP fallback is an original compatibility choice"
+      ]
+    }
+  ],
+  "smali_sha256": {
+    "M2/a": "ae62165471e435edbad687dae66e96137bf378e7023445502f9666838291b4bd",
+    "J/d": "e48919f3a42baa433e70b4c8ae6cc01ca482355341444a86e4f5738f2d82031f",
+    "A0/c": "1eecc4eae3726dc834babdb61e25b9c03eefcaf9d3eee37c29638b87317a9c17",
+    "o2/j": "f0bd168dd5036d5f1893c9f5f391a70328552cb1c7f04e5fc867a0f751b3e6c4",
+    "A0/a": "c828d3d09d28b008d0bdb7ada6afb2bcec171786ae367e9ff81f0431e899f578"
+  },
+  "unrecovered": [
+    "Exact Flutter A4DY DPI/bitmap-size selection; renderer currently adopts 203 dpi from the working USB profile",
+    "A firmware-defined reply delimiter or self-identifying reply opcode",
+    "Physical cancel command",
+    "Battery units and physical sheet completion signal"
+  ]
+}

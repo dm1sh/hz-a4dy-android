@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.a4dy.print.ReplyCollectorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-18T00:26:44.839Z" hostname="e2b.local" time="3.392">
+  <properties/>
+  <testcase name="closedConnectionDoesNotHang" classname="app.a4dy.print.ReplyCollectorTest" time="3.154"/>
+  <testcase name="timesOutWithoutData" classname="app.a4dy.print.ReplyCollectorTest" time="0.088"/>
+  <testcase name="gathersFragmentedRepliesUntilQuietGap" classname="app.a4dy.print.ReplyCollectorTest" time="0.093"/>
+  <testcase name="oversizedUnsolicitedReplyFailsBoundedly" classname="app.a4dy.print.ReplyCollectorTest" time="0.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,91 @@
+{
+  "evidence_scope": "Historical initial-build validation before the later user hardware report; false physical-test flags below refer only to that initial session.",
+  "later_hardware_report": "../hardware-user-report.json",
+  "app": "A4DY Print",
+  "version": "0.1.0-test",
+  "min_api": 31,
+  "target_api": 36,
+  "package": "app.a4dy.print.debug",
+  "apk_filename": "A4DY-Print-0.1.0-test.apk",
+  "apk_bytes": 9752405,
+  "apk_sha256": "74ddbd0ef1a16ecc1a08bd30a3e3b9cf709d8dae60a5772bb3ccf18b9e6f50a4",
+  "apk_signature": "v2; Android Debug certificate; verified with apksigner",
+  "debug_certificate_sha256": "3646ce66a7dba73ae0b8f4c22ab40fe754e520eb5e317616346c6fc8043c52f0",
+  "test_suites": [
+    {
+      "name": "app.a4dy.core.ProtocolTest",
+      "tests": "13",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "0.071"
+    },
+    {
+      "name": "app.a4dy.core.RasterTest",
+      "tests": "16",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "0.028"
+    },
+    {
+      "name": "app.a4dy.print.RendererAndImportTest",
+      "tests": "7",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "6.64"
+    },
+    {
+      "name": "app.a4dy.print.ReplyCollectorTest",
+      "tests": "4",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "3.392"
+    },
+    {
+      "name": "app.a4dy.print.RuntimeTest",
+      "tests": "9",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "3.638"
+    },
+    {
+      "name": "app.a4dy.print.StoreAndServiceTest",
+      "tests": "18",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "12.464"
+    },
+    {
+      "name": "app.a4dy.print.UiTest",
+      "tests": "3",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "11.342"
+    }
+  ],
+  "automated_total": 70,
+  "automated_failed": 0,
+  "automated_skipped": 0,
+  "vendor_packet_comparisons": 27,
+  "lint": {
+    "errors": 0,
+    "warnings": 22
+  },
+  "device_document_tests_compiled_not_run": 10,
+  "physical_bluetooth_tested": false,
+  "android_device_install_tested": false,
+  "emulator_tested": false,
+  "android_pdf_native_engine_tested": false,
+  "screenshots": "Real Compose view tree drawn under Robolectric native graphics; not device captures",
+  "notes": [
+    "Host 2 GB RAM / 2 CPU; validation split into fresh Gradle commands to avoid memory pressure.",
+    "No original vendor code or native libraries in app; research probe uses caller-supplied hash-pinned bytecode offline only.",
+    "Subsequent user-reported pairing/connection, test-strip output and Android system printing on v6.0.4 are recorded separately in research/hardware-user-report.json."
+  ]
+}

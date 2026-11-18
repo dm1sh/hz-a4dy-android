@@ -1,0 +1,32 @@
+{
+  "evidence_type": "user-reported physical test; not assistant-run instrumentation",
+  "recorded_date": "2026-11-17",
+  "app_version": "0.1.0-test",
+  "app_apk_sha256": "74ddbd0ef1a16ecc1a08bd30a3e3b9cf709d8dae60a5772bb3ccf18b9e6f50a4",
+  "printer_profile": "plain HZ-A4DY / initial 203 dpi profile",
+  "firmware_reported": "v6.0.4",
+  "battery_response_raw": 100,
+  "battery_units": "unknown; not established as percent",
+  "reported_success": {
+    "android_pairing": true,
+    "bluetooth_connection": true,
+    "built_in_test_strip": true,
+    "android_system_printing": true
+  },
+  "phone_model": null,
+  "android_version": null,
+  "photo": {
+    "path": "docs/hardware/first-test-strip.jpg",
+    "sha256": "3630691408da3735dc758631210f61cd28ad12dde3233e0d634ef0d835821e6b",
+    "provenance": "User-supplied test-strip photograph; EXIF orientation applied and camera metadata removed by re-encoding. Printed content not retouched."
+  },
+  "still_unverified": [
+    "10 compiled device document instrumentation tests",
+    "advanced page ranges and physical copy/collation counts",
+    "lifecycle, cancellation, failure and screen-off behavior",
+    "broader phone, Android and firmware matrix",
+    "density range, feed/label mode, physical DPI and alignment calibration",
+    "battery units and reliable physical completion"
+  ],
+  "relationship_to_initial_build": "research/validation/summary.json describes the earlier build-only validation, before this report. Its physical-test flags are historical, not current project status."
+}

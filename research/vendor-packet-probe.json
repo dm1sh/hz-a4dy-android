@@ -1,0 +1,256 @@
+{
+  "probe": "isolated translated vendor bytecode vs original core, black-white fixtures",
+  "cases": [
+    {
+      "width": 1,
+      "height": 1,
+      "paperType": 0,
+      "raster_packet_bytes": 17,
+      "raster_packet_sha256": "aa6fbe0822eeab1d3dddc13628aeb8effdc98c28c905fbcb0e4cebd2de26d059",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 1,
+      "height": 1,
+      "paperType": 1,
+      "raster_packet_bytes": 17,
+      "raster_packet_sha256": "aa6fbe0822eeab1d3dddc13628aeb8effdc98c28c905fbcb0e4cebd2de26d059",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 1,
+      "height": 1,
+      "paperType": 2,
+      "raster_packet_bytes": 17,
+      "raster_packet_sha256": "aa6fbe0822eeab1d3dddc13628aeb8effdc98c28c905fbcb0e4cebd2de26d059",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 7,
+      "height": 3,
+      "paperType": 0,
+      "raster_packet_bytes": 19,
+      "raster_packet_sha256": "74186f531079800200d0d3ae139a250133df1342588d95e471ebafee5c6de482",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 7,
+      "height": 3,
+      "paperType": 1,
+      "raster_packet_bytes": 19,
+      "raster_packet_sha256": "74186f531079800200d0d3ae139a250133df1342588d95e471ebafee5c6de482",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 7,
+      "height": 3,
+      "paperType": 2,
+      "raster_packet_bytes": 19,
+      "raster_packet_sha256": "74186f531079800200d0d3ae139a250133df1342588d95e471ebafee5c6de482",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 8,
+      "height": 7,
+      "paperType": 0,
+      "raster_packet_bytes": 23,
+      "raster_packet_sha256": "595c3880ceb433d0f8b8388462e62d8f3fd5cfea729fb4d46e51c3a93d3c12b8",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 8,
+      "height": 7,
+      "paperType": 1,
+      "raster_packet_bytes": 23,
+      "raster_packet_sha256": "595c3880ceb433d0f8b8388462e62d8f3fd5cfea729fb4d46e51c3a93d3c12b8",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 8,
+      "height": 7,
+      "paperType": 2,
+      "raster_packet_bytes": 23,
+      "raster_packet_sha256": "595c3880ceb433d0f8b8388462e62d8f3fd5cfea729fb4d46e51c3a93d3c12b8",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 9,
+      "height": 11,
+      "paperType": 0,
+      "raster_packet_bytes": 38,
+      "raster_packet_sha256": "991bab2042fd3fb2f16d5f93ae3a352ab3eea0d7ba163035da453a4c6dfce918",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 9,
+      "height": 11,
+      "paperType": 1,
+      "raster_packet_bytes": 38,
+      "raster_packet_sha256": "991bab2042fd3fb2f16d5f93ae3a352ab3eea0d7ba163035da453a4c6dfce918",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 9,
+      "height": 11,
+      "paperType": 2,
+      "raster_packet_bytes": 38,
+      "raster_packet_sha256": "991bab2042fd3fb2f16d5f93ae3a352ab3eea0d7ba163035da453a4c6dfce918",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 383,
+      "height": 24,
+      "paperType": 0,
+      "raster_packet_bytes": 81,
+      "raster_packet_sha256": "f93ae10b7c4cd8b78ecc223271fc04f9fc28a07df116d182b1274e79f62dc15b",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 383,
+      "height": 24,
+      "paperType": 1,
+      "raster_packet_bytes": 81,
+      "raster_packet_sha256": "f93ae10b7c4cd8b78ecc223271fc04f9fc28a07df116d182b1274e79f62dc15b",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 383,
+      "height": 24,
+      "paperType": 2,
+      "raster_packet_bytes": 81,
+      "raster_packet_sha256": "f93ae10b7c4cd8b78ecc223271fc04f9fc28a07df116d182b1274e79f62dc15b",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 640,
+      "height": 200,
+      "paperType": 0,
+      "raster_packet_bytes": 168,
+      "raster_packet_sha256": "16c94d9ffbc53f517c5250fadc4f973556cbf9ba9e05922c36f20eb7c9e7842c",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 640,
+      "height": 200,
+      "paperType": 1,
+      "raster_packet_bytes": 168,
+      "raster_packet_sha256": "16c94d9ffbc53f517c5250fadc4f973556cbf9ba9e05922c36f20eb7c9e7842c",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 640,
+      "height": 200,
+      "paperType": 2,
+      "raster_packet_bytes": 168,
+      "raster_packet_sha256": "16c94d9ffbc53f517c5250fadc4f973556cbf9ba9e05922c36f20eb7c9e7842c",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 1678,
+      "height": 3,
+      "paperType": 0,
+      "raster_packet_bytes": 43,
+      "raster_packet_sha256": "8f4dc05c1969b8aa8b2d9e87fa36ffd7e4d230eb095c77bf89c833d7635723e7",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 1678,
+      "height": 3,
+      "paperType": 1,
+      "raster_packet_bytes": 43,
+      "raster_packet_sha256": "8f4dc05c1969b8aa8b2d9e87fa36ffd7e4d230eb095c77bf89c833d7635723e7",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 1678,
+      "height": 3,
+      "paperType": 2,
+      "raster_packet_bytes": 43,
+      "raster_packet_sha256": "8f4dc05c1969b8aa8b2d9e87fa36ffd7e4d230eb095c77bf89c833d7635723e7",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 1728,
+      "height": 257,
+      "paperType": 0,
+      "raster_packet_bytes": 754,
+      "raster_packet_sha256": "4aed411c4f1a10813fa9c3a11cf20211eef1aa36c9b3d0e70b53ee615e819fe4",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 1728,
+      "height": 257,
+      "paperType": 1,
+      "raster_packet_bytes": 754,
+      "raster_packet_sha256": "4aed411c4f1a10813fa9c3a11cf20211eef1aa36c9b3d0e70b53ee615e819fe4",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 1728,
+      "height": 257,
+      "paperType": 2,
+      "raster_packet_bytes": 754,
+      "raster_packet_sha256": "4aed411c4f1a10813fa9c3a11cf20211eef1aa36c9b3d0e70b53ee615e819fe4",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 1678,
+      "height": 2374,
+      "paperType": 0,
+      "raster_packet_bytes": 3916,
+      "raster_packet_sha256": "59919e0d62bd4a357da2990e275b61263ff86cc1c8e134403429ae41bae433c9",
+      "feed": "1f122002",
+      "exact_match": true
+    },
+    {
+      "width": 1678,
+      "height": 2374,
+      "paperType": 1,
+      "raster_packet_bytes": 3916,
+      "raster_packet_sha256": "59919e0d62bd4a357da2990e275b61263ff86cc1c8e134403429ae41bae433c9",
+      "feed": "1b4a64",
+      "exact_match": true
+    },
+    {
+      "width": 1678,
+      "height": 2374,
+      "paperType": 2,
+      "raster_packet_bytes": 3916,
+      "raster_packet_sha256": "59919e0d62bd4a357da2990e275b61263ff86cc1c8e134403429ae41bae433c9",
+      "feed": "1f122002",
+      "exact_match": true
+    }
+  ],
+  "passed": 27,
+  "hardware_test": false,
+  "base_apk_sha256": "d3ed4870762173fed497b7e6ada2a4f66a95bd9f1e1849420369dbb17c41b45c",
+  "core_jar_sha256": "6077f54cf185042dfb5e528843a4f969f1817f345996760572bb1fbb235ac7cc",
+  "java_version": "openjdk version \"21.0.13\" 2026-10-20",
+  "translator": "enjarify 1.0.3 --fast",
+  "translated_class_sha256": "34ab7f3d1419bce0dc0cfad60024f4913fab86e8dc1b6a7ee4531cdf973a0529",
+  "note": "JVM fixture comparison only. Does not validate Android image APIs, RFCOMM, reply timing, printer firmware or physical output."
+}

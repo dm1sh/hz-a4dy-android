@@ -1,0 +1,2634 @@
+[
+  {
+    "name": "AndroidManifest.xml",
+    "size": 24064
+  },
+  {
+    "name": "DebugProbesKt.bin",
+    "size": 1738
+  },
+  {
+    "name": "HMSCore-hatool.properties",
+    "size": 38
+  },
+  {
+    "name": "META-INF/androidx/annotation/annotation/LICENSE.txt",
+    "size": 10175
+  },
+  {
+    "name": "META-INF/androidx.activity_activity-ktx.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.activity_activity.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.annotation_annotation-experimental.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.appcompat_appcompat-resources.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.appcompat_appcompat.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.arch.core_core-runtime.version",
+    "size": 67
+  },
+  {
+    "name": "META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.browser_browser.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.coordinatorlayout_coordinatorlayout.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.core_core-ktx.version",
+    "size": 7
+  },
+  {
+    "name": "META-INF/androidx.core_core.version",
+    "size": 7
+  },
+  {
+    "name": "META-INF/androidx.cursoradapter_cursoradapter.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.customview_customview.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.datastore_datastore-core.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.datastore_datastore-preferences.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.datastore_datastore.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.documentfile_documentfile.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.drawerlayout_drawerlayout.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.emoji2_emoji2-views-helper.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.emoji2_emoji2.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.exifinterface_exifinterface.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.fragment_fragment-ktx.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.fragment_fragment.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.heifwriter_heifwriter.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.interpolator_interpolator.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.legacy_legacy-support-core-ui.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.legacy_legacy-support-core-utils.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-livedata-core.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-livedata.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-process.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-runtime.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.lifecycle_lifecycle-viewmodel.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.loader_loader.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.preference_preference.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.print_print.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.profileinstaller_profileinstaller.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.recyclerview_recyclerview.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.savedstate_savedstate-ktx.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.savedstate_savedstate.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.slidingpanelayout_slidingpanelayout.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.startup_startup-runtime.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.tracing_tracing.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.transition_transition.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.vectordrawable_vectordrawable-animated.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.vectordrawable_vectordrawable.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.versionedparcelable_versionedparcelable.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.viewpager_viewpager.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.webkit_webkit.version",
+    "size": 7
+  },
+  {
+    "name": "META-INF/androidx.window.extensions.core_core.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.window_window-java.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/androidx.window_window.version",
+    "size": 6
+  },
+  {
+    "name": "META-INF/com/android/build/gradle/app-metadata.properties",
+    "size": 56
+  },
+  {
+    "name": "META-INF/kotlinx_coroutines_android.version",
+    "size": 5
+  },
+  {
+    "name": "META-INF/kotlinx_coroutines_core.version",
+    "size": 5
+  },
+  {
+    "name": "META-INF/services/U3.a",
+    "size": 5
+  },
+  {
+    "name": "META-INF/services/U3.b",
+    "size": 5
+  },
+  {
+    "name": "META-INF/version-control-info.textproto",
+    "size": 46
+  },
+  {
+    "name": "agconnect-core.properties",
+    "size": 37
+  },
+  {
+    "name": "assets/angle.ms",
+    "size": 125968
+  },
+  {
+    "name": "assets/corner.ms",
+    "size": 380592
+  },
+  {
+    "name": "assets/detect.ms",
+    "size": 679056
+  },
+  {
+    "name": "assets/dexopt/baseline.prof",
+    "size": 1601
+  },
+  {
+    "name": "assets/dexopt/baseline.profm",
+    "size": 259
+  },
+  {
+    "name": "assets/flutter_assets/.flutter-plugins",
+    "size": 5338
+  },
+  {
+    "name": "assets/flutter_assets/.flutter-plugins-dependencies",
+    "size": 21608
+  },
+  {
+    "name": "assets/flutter_assets/.fvmrc",
+    "size": 25
+  },
+  {
+    "name": "assets/flutter_assets/.metadata",
+    "size": 1114
+  },
+  {
+    "name": "assets/flutter_assets/AssetManifest.bin",
+    "size": 22908
+  },
+  {
+    "name": "assets/flutter_assets/AssetManifest.json",
+    "size": 20903
+  },
+  {
+    "name": "assets/flutter_assets/FontManifest.json",
+    "size": 686
+  },
+  {
+    "name": "assets/flutter_assets/NOTICES.Z",
+    "size": 106913
+  },
+  {
+    "name": "assets/flutter_assets/NativeAssetsManifest.json",
+    "size": 45
+  },
+  {
+    "name": "assets/flutter_assets/README.md",
+    "size": 539
+  },
+  {
+    "name": "assets/flutter_assets/analysis_options.yaml",
+    "size": 1420
+  },
+  {
+    "name": "assets/flutter_assets/devtools_options.yaml",
+    "size": 184
+  },
+  {
+    "name": "assets/flutter_assets/fonts/MaterialIcons-Regular.otf",
+    "size": 5264
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/a401.webp",
+    "size": 56664
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/a403.webp",
+    "size": 185866
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/ayC80.webp",
+    "size": 10132
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/ayU8.webp",
+    "size": 12502
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/dy.webp",
+    "size": 25426
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/dy1.webp",
+    "size": 35064
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/jx.webp",
+    "size": 42748
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/noData.webp",
+    "size": 22188
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/vtrA41.webp",
+    "size": 41908
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/vtrA42.webp",
+    "size": 38942
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/ykD82.webp",
+    "size": 55334
+  },
+  {
+    "name": "assets/flutter_assets/images/devices/ykP82.webp",
+    "size": 58420
+  },
+  {
+    "name": "assets/flutter_assets/images/filter/0.svg",
+    "size": 1219
+  },
+  {
+    "name": "assets/flutter_assets/images/filter/1.svg",
+    "size": 1804
+  },
+  {
+    "name": "assets/flutter_assets/images/filter/2.svg",
+    "size": 753
+  },
+  {
+    "name": "assets/flutter_assets/images/filter/3.svg",
+    "size": 1156
+  },
+  {
+    "name": "assets/flutter_assets/images/filter/4.svg",
+    "size": 1146
+  },
+  {
+    "name": "assets/flutter_assets/images/filter/5.svg",
+    "size": 1156
+  },
+  {
+    "name": "assets/flutter_assets/images/filter/6.svg",
+    "size": 1146
+  },
+  {
+    "name": "assets/flutter_assets/images/filter/battery.svg",
+    "size": 538
+  },
+  {
+    "name": "assets/flutter_assets/images/print/document.webp",
+    "size": 3916
+  },
+  {
+    "name": "assets/flutter_assets/images/print/erase.webp",
+    "size": 2428
+  },
+  {
+    "name": "assets/flutter_assets/images/print/guide.webp",
+    "size": 12570
+  },
+  {
+    "name": "assets/flutter_assets/images/print/ocr.webp",
+    "size": 3424
+  },
+  {
+    "name": "assets/flutter_assets/images/print/photo.webp",
+    "size": 4934
+  },
+  {
+    "name": "assets/flutter_assets/images/print/scan.webp",
+    "size": 2148
+  },
+  {
+    "name": "assets/flutter_assets/images/print/tattoo.webp",
+    "size": 10552
+  },
+  {
+    "name": "assets/flutter_assets/images/print/webpage.webp",
+    "size": 6172
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_1.webp",
+    "size": 160856
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_10.webp",
+    "size": 163412
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_11.webp",
+    "size": 155314
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_12.webp",
+    "size": 144872
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_13.webp",
+    "size": 163586
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_14.webp",
+    "size": 159482
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_15.webp",
+    "size": 159684
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_16.webp",
+    "size": 163850
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_2.webp",
+    "size": 156030
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_3.webp",
+    "size": 150194
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_4.webp",
+    "size": 153426
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_5.webp",
+    "size": 151340
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_6.webp",
+    "size": 160856
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_7.webp",
+    "size": 152804
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_8.webp",
+    "size": 147804
+  },
+  {
+    "name": "assets/flutter_assets/images/template/copybook/img_9.webp",
+    "size": 146520
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_1.webp",
+    "size": 61654
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_10.webp",
+    "size": 33408
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_11.webp",
+    "size": 26382
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_12.webp",
+    "size": 24942
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_13.webp",
+    "size": 217926
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_14.webp",
+    "size": 233602
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_15.webp",
+    "size": 152068
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_16.webp",
+    "size": 274600
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_17.webp",
+    "size": 108354
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_18.webp",
+    "size": 136386
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_19.webp",
+    "size": 189910
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_2.webp",
+    "size": 63640
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_20.webp",
+    "size": 44590
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_21.webp",
+    "size": 77944
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_22.webp",
+    "size": 44384
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_23.webp",
+    "size": 65648
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_24.webp",
+    "size": 57620
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_25.webp",
+    "size": 43354
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_26.webp",
+    "size": 37470
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_27.webp",
+    "size": 47360
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_28.webp",
+    "size": 46162
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_29.webp",
+    "size": 67050
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_3.webp",
+    "size": 27442
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_30.webp",
+    "size": 57574
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_4.webp",
+    "size": 203804
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_5.webp",
+    "size": 133168
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_6.webp",
+    "size": 29110
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_7.webp",
+    "size": 21548
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_8.webp",
+    "size": 34706
+  },
+  {
+    "name": "assets/flutter_assets/images/template/graffiti/img_9.webp",
+    "size": 34388
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_1.webp",
+    "size": 13744
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_10.webp",
+    "size": 32806
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_11.webp",
+    "size": 35710
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_12.webp",
+    "size": 33388
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_13.webp",
+    "size": 172228
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_14.webp",
+    "size": 104172
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_15.webp",
+    "size": 101386
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_16.webp",
+    "size": 77812
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_17.webp",
+    "size": 29684
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_18.webp",
+    "size": 62518
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_19.webp",
+    "size": 51012
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_2.webp",
+    "size": 36048
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_20.webp",
+    "size": 225726
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_21.webp",
+    "size": 175562
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_22.webp",
+    "size": 94610
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_23.webp",
+    "size": 109062
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_24.webp",
+    "size": 224120
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_25.webp",
+    "size": 194176
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_26.webp",
+    "size": 142418
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_27.webp",
+    "size": 71702
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_3.webp",
+    "size": 27308
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_4.webp",
+    "size": 72960
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_5.webp",
+    "size": 67584
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_6.webp",
+    "size": 44024
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_7.webp",
+    "size": 31902
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_8.webp",
+    "size": 188310
+  },
+  {
+    "name": "assets/flutter_assets/images/template/learn/img_9.webp",
+    "size": 79836
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_1.webp",
+    "size": 24966
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_10.webp",
+    "size": 37640
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_11.webp",
+    "size": 50306
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_12.webp",
+    "size": 124534
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_13.webp",
+    "size": 130038
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_14.webp",
+    "size": 136488
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_15.webp",
+    "size": 82376
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_16.webp",
+    "size": 68672
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_17.webp",
+    "size": 9818
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_18.webp",
+    "size": 12128
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_19.webp",
+    "size": 25944
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_2.webp",
+    "size": 11804
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_20.webp",
+    "size": 17852
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_21.webp",
+    "size": 62706
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_22.webp",
+    "size": 81990
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_23.webp",
+    "size": 142452
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_24.webp",
+    "size": 147350
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_25.webp",
+    "size": 48846
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_26.webp",
+    "size": 17192
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_27.webp",
+    "size": 8796
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_3.webp",
+    "size": 37640
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_4.webp",
+    "size": 13196
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_5.webp",
+    "size": 16594
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_6.webp",
+    "size": 45626
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_7.webp",
+    "size": 15392
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_8.webp",
+    "size": 17390
+  },
+  {
+    "name": "assets/flutter_assets/images/template/other/img_9.webp",
+    "size": 111648
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_1.webp",
+    "size": 66562
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_10.webp",
+    "size": 87504
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_100.webp",
+    "size": 98606
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_101.webp",
+    "size": 19744
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_102.webp",
+    "size": 248152
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_103.webp",
+    "size": 26366
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_104.webp",
+    "size": 72958
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_105.webp",
+    "size": 138864
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_106.webp",
+    "size": 54242
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_107.webp",
+    "size": 37688
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_108.webp",
+    "size": 159138
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_109.webp",
+    "size": 4154
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_11.webp",
+    "size": 73202
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_110.webp",
+    "size": 30310
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_111.webp",
+    "size": 9062
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_112.webp",
+    "size": 6766
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_113.webp",
+    "size": 16390
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_114.webp",
+    "size": 52292
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_115.webp",
+    "size": 77076
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_116.webp",
+    "size": 42738
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_117.webp",
+    "size": 20126
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_118.webp",
+    "size": 14188
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_119.webp",
+    "size": 31716
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_12.webp",
+    "size": 59436
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_120.webp",
+    "size": 87610
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_121.webp",
+    "size": 119290
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_122.webp",
+    "size": 11532
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_123.webp",
+    "size": 167782
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_124.webp",
+    "size": 120866
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_125.webp",
+    "size": 6930
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_126.webp",
+    "size": 75206
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_13.webp",
+    "size": 197468
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_14.webp",
+    "size": 55192
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_15.webp",
+    "size": 24414
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_16.webp",
+    "size": 348728
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_17.webp",
+    "size": 219660
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_18.webp",
+    "size": 37756
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_19.webp",
+    "size": 197306
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_2.webp",
+    "size": 221572
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_20.webp",
+    "size": 101276
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_21.webp",
+    "size": 53508
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_22.webp",
+    "size": 141034
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_23.webp",
+    "size": 53378
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_24.webp",
+    "size": 363248
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_25.webp",
+    "size": 65620
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_26.webp",
+    "size": 31616
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_27.webp",
+    "size": 126124
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_28.webp",
+    "size": 21326
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_29.webp",
+    "size": 193460
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_3.webp",
+    "size": 53146
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_30.webp",
+    "size": 140168
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_31.webp",
+    "size": 88500
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_32.webp",
+    "size": 18960
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_33.webp",
+    "size": 106204
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_34.webp",
+    "size": 17228
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_35.webp",
+    "size": 33976
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_36.webp",
+    "size": 28320
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_37.webp",
+    "size": 20738
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_38.webp",
+    "size": 90314
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_39.webp",
+    "size": 65344
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_4.webp",
+    "size": 68748
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_40.webp",
+    "size": 34356
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_41.webp",
+    "size": 84492
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_42.webp",
+    "size": 228814
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_43.webp",
+    "size": 68410
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_44.webp",
+    "size": 80874
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_45.webp",
+    "size": 112186
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_46.webp",
+    "size": 67202
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_47.webp",
+    "size": 88658
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_48.webp",
+    "size": 55266
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_49.webp",
+    "size": 228584
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_5.webp",
+    "size": 34408
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_50.webp",
+    "size": 22274
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_51.webp",
+    "size": 24464
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_52.webp",
+    "size": 15056
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_53.webp",
+    "size": 36904
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_54.webp",
+    "size": 53396
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_55.webp",
+    "size": 51344
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_56.webp",
+    "size": 7850
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_57.webp",
+    "size": 8000
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_58.webp",
+    "size": 61484
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_59.webp",
+    "size": 9678
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_6.webp",
+    "size": 120136
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_60.webp",
+    "size": 46756
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_61.webp",
+    "size": 78354
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_62.webp",
+    "size": 4332
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_63.webp",
+    "size": 11400
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_64.webp",
+    "size": 84644
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_65.webp",
+    "size": 29946
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_66.webp",
+    "size": 51180
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_67.webp",
+    "size": 4622
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_68.webp",
+    "size": 52736
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_69.webp",
+    "size": 30396
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_7.webp",
+    "size": 45922
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_70.webp",
+    "size": 94926
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_71.webp",
+    "size": 14084
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_72.webp",
+    "size": 5778
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_73.webp",
+    "size": 8772
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_74.webp",
+    "size": 38236
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_75.webp",
+    "size": 33100
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_76.webp",
+    "size": 7588
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_77.webp",
+    "size": 33768
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_78.webp",
+    "size": 14066
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_79.webp",
+    "size": 4970
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_8.webp",
+    "size": 38938
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_80.webp",
+    "size": 46710
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_81.webp",
+    "size": 22966
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_82.webp",
+    "size": 53194
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_83.webp",
+    "size": 32930
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_84.webp",
+    "size": 32516
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_85.webp",
+    "size": 36162
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_86.webp",
+    "size": 51882
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_87.webp",
+    "size": 6686
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_88.webp",
+    "size": 9508
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_89.webp",
+    "size": 54692
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_9.webp",
+    "size": 132010
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_90.webp",
+    "size": 14912
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_91.webp",
+    "size": 9970
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_92.webp",
+    "size": 4754
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_93.webp",
+    "size": 30246
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_94.webp",
+    "size": 8490
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_95.webp",
+    "size": 75916
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_96.webp",
+    "size": 14164
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_97.webp",
+    "size": 7870
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_98.webp",
+    "size": 167044
+  },
+  {
+    "name": "assets/flutter_assets/images/template/tattoo/img_99.webp",
+    "size": 8948
+  },
+  {
+    "name": "assets/flutter_assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css",
+    "size": 1688
+  },
+  {
+    "name": "assets/flutter_assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html",
+    "size": 82244
+  },
+  {
+    "name": "assets/flutter_assets/packages/flutter_inappwebview_web/assets/web/web_support.js",
+    "size": 28409
+  },
+  {
+    "name": "assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf",
+    "size": 209376
+  },
+  {
+    "name": "assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf",
+    "size": 2212
+  },
+  {
+    "name": "assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf",
+    "size": 423676
+  },
+  {
+    "name": "assets/flutter_assets/packages/geekyants_flutter_gauges/assets/fonts/Roboto-Regular.ttf",
+    "size": 168260
+  },
+  {
+    "name": "assets/flutter_assets/packages/pdfrx/assets/pdfium.wasm",
+    "size": 3960317
+  },
+  {
+    "name": "assets/flutter_assets/packages/pdfrx/assets/pdfium_client.js",
+    "size": 1856
+  },
+  {
+    "name": "assets/flutter_assets/packages/pdfrx/assets/pdfium_worker.js",
+    "size": 48247
+  },
+  {
+    "name": "assets/flutter_assets/packages/wakelock_plus/assets/no_sleep.js",
+    "size": 13344
+  },
+  {
+    "name": "assets/flutter_assets/pubspec.lock",
+    "size": 37904
+  },
+  {
+    "name": "assets/flutter_assets/pubspec.yaml",
+    "size": 1757
+  },
+  {
+    "name": "assets/flutter_assets/scanprint.iml",
+    "size": 14528
+  },
+  {
+    "name": "assets/flutter_assets/shaders/ink_sparkle.frag",
+    "size": 21632
+  },
+  {
+    "name": "assets/flutter_assets/update.json",
+    "size": 696
+  },
+  {
+    "name": "assets/grs_sdk_global_route_config_mlkit.json",
+    "size": 9809
+  },
+  {
+    "name": "assets/grs_sdk_server_config.json",
+    "size": 370
+  },
+  {
+    "name": "assets/grs_sp.bks",
+    "size": 1470
+  },
+  {
+    "name": "assets/hmsincas.bks",
+    "size": 3670
+  },
+  {
+    "name": "assets/hmsrootcas.bks",
+    "size": 34118
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/aksara/aksara_page_layout_analysis_rpn_gcn.binarypb",
+    "size": 276
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/aksara/aksara_page_layout_analysis_ti_rpn_gcn.binarypb",
+    "size": 278
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Hani_ctc/optical/assets.extra/LabelMap.pb",
+    "size": 70403
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Hani_ctc/optical/conv_model.fb",
+    "size": 40808
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Hani_ctc/optical/lstm_model.fb",
+    "size": 891872
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Hani_ctc_cpu.binarypb",
+    "size": 329
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Jpan_ctc/optical/assets.extra/LabelMap.pb",
+    "size": 36246
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Jpan_ctc/optical/conv_model.fb",
+    "size": 40808
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Jpan_ctc/optical/lstm_model.fb",
+    "size": 886720
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Jpan_ctc_cpu.binarypb",
+    "size": 329
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Kore_ctc/optical/assets.extra/LabelMap.pb",
+    "size": 29353
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Kore_ctc/optical/conv_model.fb",
+    "size": 40928
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Kore_ctc/optical/lstm_model.fb",
+    "size": 795904
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Kore_ctc_cpu.binarypb",
+    "size": 329
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Latn_ctc/optical/assets.extra/LabelMap.pb",
+    "size": 3809
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Latn_ctc/optical/conv_model.fb",
+    "size": 40848
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Latn_ctc/optical/lstm_model.fb",
+    "size": 309568
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/Latn_ctc_cpu.binarypb",
+    "size": 333
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/gocr_models/line_recognition_legacy_mobile/tflite_langid.tflite",
+    "size": 315520
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/layout/line_clustering_custom_ops/model.tflite",
+    "size": 129612
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/gocr/layout/line_splitting_custom_ops/model.tflite",
+    "size": 114384
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser/detector/region_proposal_text_detector_tflite_vertical_mbv2_v1.bincfg",
+    "size": 452
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser/detector/rpn_text_detector_mobile_space_to_depth_quantized_mbv2_v1.tflite",
+    "size": 340760
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser/rpn_text_detection_tflite_mobile_mbv2.binarypb",
+    "size": 194
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser/segmenter/tflite_script_detector_0.3.bincfg",
+    "size": 1118
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser/segmenter/tflite_script_detector_0.3.conv_model",
+    "size": 40808
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser/segmenter/tflite_script_detector_0.3.lstm_model",
+    "size": 161448
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser/taser_script_identification_tflite_mobile.binarypb",
+    "size": 136
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrchinese_and_latin_mbv2_aksara_layout_gcn_mobile_engine.binarypb",
+    "size": 13181
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrchinese_and_latin_mbv2_aksara_layout_gcn_mobile_engine_ti.binarypb",
+    "size": 13186
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrchinese_and_latin_mbv2_aksara_layout_gcn_mobile_recognizer.binarypb",
+    "size": 316
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrchinese_and_latin_mbv2_aksara_layout_gcn_mobile_runner.binarypb",
+    "size": 334
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrchinese_and_latin_mbv2_aksara_layout_gcn_mobile_runner_ti.binarypb",
+    "size": 337
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrjapanese_and_latin_mbv2_aksara_layout_gcn_mobile_engine.binarypb",
+    "size": 13182
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrjapanese_and_latin_mbv2_aksara_layout_gcn_mobile_engine_ti.binarypb",
+    "size": 13187
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrjapanese_and_latin_mbv2_aksara_layout_gcn_mobile_recognizer.binarypb",
+    "size": 399
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrjapanese_and_latin_mbv2_aksara_layout_gcn_mobile_runner.binarypb",
+    "size": 335
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrjapanese_and_latin_mbv2_aksara_layout_gcn_mobile_runner_ti.binarypb",
+    "size": 338
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrkorean_and_latin_mbv2_aksara_layout_gcn_mobile_engine.binarypb",
+    "size": 13180
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrkorean_and_latin_mbv2_aksara_layout_gcn_mobile_engine_ti.binarypb",
+    "size": 13185
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrkorean_and_latin_mbv2_aksara_layout_gcn_mobile_recognizer.binarypb",
+    "size": 316
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrkorean_and_latin_mbv2_aksara_layout_gcn_mobile_runner.binarypb",
+    "size": 333
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrkorean_and_latin_mbv2_aksara_layout_gcn_mobile_runner_ti.binarypb",
+    "size": 336
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrlatin_mbv2_scriptid_aksara_layout_gcn_mobile_engine.binarypb",
+    "size": 13178
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrlatin_mbv2_scriptid_aksara_layout_gcn_mobile_engine_ti.binarypb",
+    "size": 13183
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrlatin_mbv2_scriptid_aksara_layout_gcn_mobile_recognizer.binarypb",
+    "size": 233
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrlatin_mbv2_scriptid_aksara_layout_gcn_mobile_runner.binarypb",
+    "size": 331
+  },
+  {
+    "name": "assets/mlkit-google-ocr-models/taser_tflite_gocrlatin_mbv2_scriptid_aksara_layout_gcn_mobile_runner_ti.binarypb",
+    "size": 334
+  },
+  {
+    "name": "classes.dex",
+    "size": 3917612
+  },
+  {
+    "name": "common.properties",
+    "size": 52
+  },
+  {
+    "name": "firebase-annotations.properties",
+    "size": 78
+  },
+  {
+    "name": "firebase-components.properties",
+    "size": 76
+  },
+  {
+    "name": "firebase-encoders-json.properties",
+    "size": 82
+  },
+  {
+    "name": "firebase-encoders.properties",
+    "size": 72
+  },
+  {
+    "name": "image.properties",
+    "size": 58
+  },
+  {
+    "name": "kotlin/annotation/annotation.kotlin_builtins",
+    "size": 865
+  },
+  {
+    "name": "kotlin/collections/collections.kotlin_builtins",
+    "size": 3635
+  },
+  {
+    "name": "kotlin/coroutines/coroutines.kotlin_builtins",
+    "size": 137
+  },
+  {
+    "name": "kotlin/internal/internal.kotlin_builtins",
+    "size": 583
+  },
+  {
+    "name": "kotlin/kotlin.kotlin_builtins",
+    "size": 18653
+  },
+  {
+    "name": "kotlin/ranges/ranges.kotlin_builtins",
+    "size": 3349
+  },
+  {
+    "name": "kotlin/reflect/reflect.kotlin_builtins",
+    "size": 2370
+  },
+  {
+    "name": "kotlin-tooling-metadata.json",
+    "size": 623
+  },
+  {
+    "name": "network-common.properties",
+    "size": 37
+  },
+  {
+    "name": "network-framework-compat.properties",
+    "size": 47
+  },
+  {
+    "name": "network-grs.properties",
+    "size": 34
+  },
+  {
+    "name": "play-services-base.properties",
+    "size": 74
+  },
+  {
+    "name": "play-services-basement.properties",
+    "size": 82
+  },
+  {
+    "name": "play-services-mlkit-text-recognition-chinese.properties",
+    "size": 126
+  },
+  {
+    "name": "play-services-mlkit-text-recognition-common.properties",
+    "size": 124
+  },
+  {
+    "name": "play-services-mlkit-text-recognition-japanese.properties",
+    "size": 128
+  },
+  {
+    "name": "play-services-mlkit-text-recognition-korean.properties",
+    "size": 124
+  },
+  {
+    "name": "play-services-mlkit-text-recognition.properties",
+    "size": 110
+  },
+  {
+    "name": "play-services-tasks.properties",
+    "size": 76
+  },
+  {
+    "name": "res/anim/abc_grow_fade_in_from_bottom.xml",
+    "size": 852
+  },
+  {
+    "name": "res/anim/abc_popup_enter.xml",
+    "size": 508
+  },
+  {
+    "name": "res/anim/abc_popup_exit.xml",
+    "size": 508
+  },
+  {
+    "name": "res/anim/abc_shrink_fade_out_from_bottom.xml",
+    "size": 852
+  },
+  {
+    "name": "res/anim/abc_tooltip_enter.xml",
+    "size": 388
+  },
+  {
+    "name": "res/anim/abc_tooltip_exit.xml",
+    "size": 388
+  },
+  {
+    "name": "res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+    "size": 2124
+  },
+  {
+    "name": "res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+    "size": 2780
+  },
+  {
+    "name": "res/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+    "size": 1196
+  },
+  {
+    "name": "res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+    "size": 2360
+  },
+  {
+    "name": "res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+    "size": 2520
+  },
+  {
+    "name": "res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+    "size": 1196
+  },
+  {
+    "name": "res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+    "size": 1656
+  },
+  {
+    "name": "res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+    "size": 1656
+  },
+  {
+    "name": "res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+    "size": 1028
+  },
+  {
+    "name": "res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+    "size": 1656
+  },
+  {
+    "name": "res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+    "size": 1656
+  },
+  {
+    "name": "res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+    "size": 1028
+  },
+  {
+    "name": "res/anim-v21/fragment_fast_out_extra_slow_in.xml",
+    "size": 364
+  },
+  {
+    "name": "res/animator/fragment_close_enter.xml",
+    "size": 1128
+  },
+  {
+    "name": "res/animator/fragment_close_exit.xml",
+    "size": 1128
+  },
+  {
+    "name": "res/animator/fragment_fade_enter.xml",
+    "size": 452
+  },
+  {
+    "name": "res/animator/fragment_fade_exit.xml",
+    "size": 452
+  },
+  {
+    "name": "res/animator/fragment_open_enter.xml",
+    "size": 1128
+  },
+  {
+    "name": "res/animator/fragment_open_exit.xml",
+    "size": 1128
+  },
+  {
+    "name": "res/color/abc_hint_foreground_material_dark.xml",
+    "size": 564
+  },
+  {
+    "name": "res/color/abc_hint_foreground_material_light.xml",
+    "size": 564
+  },
+  {
+    "name": "res/color/abc_primary_text_material_dark.xml",
+    "size": 464
+  },
+  {
+    "name": "res/color/abc_primary_text_material_light.xml",
+    "size": 464
+  },
+  {
+    "name": "res/color/abc_search_url_text.xml",
+    "size": 588
+  },
+  {
+    "name": "res/color/common_google_signin_btn_text_dark.xml",
+    "size": 712
+  },
+  {
+    "name": "res/color/common_google_signin_btn_text_light.xml",
+    "size": 712
+  },
+  {
+    "name": "res/color/common_google_signin_btn_tint.xml",
+    "size": 464
+  },
+  {
+    "name": "res/color/switch_thumb_material_dark.xml",
+    "size": 464
+  },
+  {
+    "name": "res/color/switch_thumb_material_light.xml",
+    "size": 464
+  },
+  {
+    "name": "res/color-v23/abc_color_highlight_material.xml",
+    "size": 544
+  },
+  {
+    "name": "res/color-v23/abc_tint_btn_checkable.xml",
+    "size": 624
+  },
+  {
+    "name": "res/color-v23/abc_tint_default.xml",
+    "size": 1120
+  },
+  {
+    "name": "res/color-v23/abc_tint_edittext.xml",
+    "size": 668
+  },
+  {
+    "name": "res/color-v23/abc_tint_seek_thumb.xml",
+    "size": 500
+  },
+  {
+    "name": "res/color-v23/abc_tint_spinner.xml",
+    "size": 668
+  },
+  {
+    "name": "res/color-v23/abc_tint_switch_track.xml",
+    "size": 664
+  },
+  {
+    "name": "res/drawable/abc_btn_borderless_material.xml",
+    "size": 588
+  },
+  {
+    "name": "res/drawable/abc_btn_check_material.xml",
+    "size": 464
+  },
+  {
+    "name": "res/drawable/abc_btn_check_material_anim.xml",
+    "size": 816
+  },
+  {
+    "name": "res/drawable/abc_btn_default_mtrl_shape.xml",
+    "size": 932
+  },
+  {
+    "name": "res/drawable/abc_btn_radio_material.xml",
+    "size": 464
+  },
+  {
+    "name": "res/drawable/abc_btn_radio_material_anim.xml",
+    "size": 816
+  },
+  {
+    "name": "res/drawable/abc_cab_background_internal_bg.xml",
+    "size": 372
+  },
+  {
+    "name": "res/drawable/abc_cab_background_top_material.xml",
+    "size": 336
+  },
+  {
+    "name": "res/drawable/abc_ic_ab_back_material.xml",
+    "size": 692
+  },
+  {
+    "name": "res/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+    "size": 1000
+  },
+  {
+    "name": "res/drawable/abc_ic_clear_material.xml",
+    "size": 684
+  },
+  {
+    "name": "res/drawable/abc_ic_go_search_api_material.xml",
+    "size": 640
+  },
+  {
+    "name": "res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
+    "size": 756
+  },
+  {
+    "name": "res/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
+    "size": 1096
+  },
+  {
+    "name": "res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
+    "size": 796
+  },
+  {
+    "name": "res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
+    "size": 920
+  },
+  {
+    "name": "res/drawable/abc_ic_menu_share_mtrl_alpha.xml",
+    "size": 980
+  },
+  {
+    "name": "res/drawable/abc_ic_search_api_material.xml",
+    "size": 812
+  },
+  {
+    "name": "res/drawable/abc_ic_voice_search_api_material.xml",
+    "size": 828
+  },
+  {
+    "name": "res/drawable/abc_item_background_holo_dark.xml",
+    "size": 1012
+  },
+  {
+    "name": "res/drawable/abc_item_background_holo_light.xml",
+    "size": 1012
+  },
+  {
+    "name": "res/drawable/abc_list_selector_background_transition_holo_dark.xml",
+    "size": 424
+  },
+  {
+    "name": "res/drawable/abc_list_selector_background_transition_holo_light.xml",
+    "size": 424
+  },
+  {
+    "name": "res/drawable/abc_list_selector_holo_dark.xml",
+    "size": 1064
+  },
+  {
+    "name": "res/drawable/abc_list_selector_holo_light.xml",
+    "size": 1064
+  },
+  {
+    "name": "res/drawable/abc_ratingbar_indicator_material.xml",
+    "size": 124
+  },
+  {
+    "name": "res/drawable/abc_ratingbar_material.xml",
+    "size": 124
+  },
+  {
+    "name": "res/drawable/abc_ratingbar_small_material.xml",
+    "size": 124
+  },
+  {
+    "name": "res/drawable/abc_seekbar_thumb_material.xml",
+    "size": 1100
+  },
+  {
+    "name": "res/drawable/abc_seekbar_tick_mark_material.xml",
+    "size": 516
+  },
+  {
+    "name": "res/drawable/abc_seekbar_track_material.xml",
+    "size": 1408
+  },
+  {
+    "name": "res/drawable/abc_spinner_textfield_background_material.xml",
+    "size": 1160
+  },
+  {
+    "name": "res/drawable/abc_star_black_48dp.xml",
+    "size": 640
+  },
+  {
+    "name": "res/drawable/abc_star_half_black_48dp.xml",
+    "size": 600
+  },
+  {
+    "name": "res/drawable/abc_switch_thumb_material.xml",
+    "size": 464
+  },
+  {
+    "name": "res/drawable/abc_tab_indicator_material.xml",
+    "size": 468
+  },
+  {
+    "name": "res/drawable/abc_text_cursor_material.xml",
+    "size": 516
+  },
+  {
+    "name": "res/drawable/abc_textfield_search_material.xml",
+    "size": 756
+  },
+  {
+    "name": "res/drawable/abc_vector_test.xml",
+    "size": 612
+  },
+  {
+    "name": "res/drawable/btn_checkbox_checked_mtrl.xml",
+    "size": 2688
+  },
+  {
+    "name": "res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+    "size": 688
+  },
+  {
+    "name": "res/drawable/btn_checkbox_unchecked_mtrl.xml",
+    "size": 2660
+  },
+  {
+    "name": "res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+    "size": 688
+  },
+  {
+    "name": "res/drawable/btn_radio_off_mtrl.xml",
+    "size": 1728
+  },
+  {
+    "name": "res/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+    "size": 680
+  },
+  {
+    "name": "res/drawable/btn_radio_on_mtrl.xml",
+    "size": 1656
+  },
+  {
+    "name": "res/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+    "size": 680
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_icon_dark.xml",
+    "size": 588
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_icon_dark_focused.xml",
+    "size": 892
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_icon_dark_normal.xml",
+    "size": 548
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_icon_disabled.xml",
+    "size": 1132
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_icon_light.xml",
+    "size": 588
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_icon_light_focused.xml",
+    "size": 892
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_icon_light_normal.xml",
+    "size": 548
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_text_dark.xml",
+    "size": 588
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_text_dark_focused.xml",
+    "size": 892
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_text_dark_normal.xml",
+    "size": 584
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_text_disabled.xml",
+    "size": 1152
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_text_light.xml",
+    "size": 588
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_text_light_focused.xml",
+    "size": 892
+  },
+  {
+    "name": "res/drawable/common_google_signin_btn_text_light_normal.xml",
+    "size": 584
+  },
+  {
+    "name": "res/drawable/floating_action_mode_shape.xml",
+    "size": 484
+  },
+  {
+    "name": "res/drawable/notification_bg.xml",
+    "size": 532
+  },
+  {
+    "name": "res/drawable/notification_bg_low.xml",
+    "size": 532
+  },
+  {
+    "name": "res/drawable/notification_icon_background.xml",
+    "size": 372
+  },
+  {
+    "name": "res/drawable/notification_tile_bg.xml",
+    "size": 304
+  },
+  {
+    "name": "res/drawable/scankit_appbar_pressed_selected.xml",
+    "size": 464
+  },
+  {
+    "name": "res/drawable/scankit_appbar_pressed_shape.xml",
+    "size": 448
+  },
+  {
+    "name": "res/drawable/scankit_back.png",
+    "size": 254
+  },
+  {
+    "name": "res/drawable/scankit_dialog_bg.xml",
+    "size": 448
+  },
+  {
+    "name": "res/drawable/scankit_divider_h.xml",
+    "size": 480
+  },
+  {
+    "name": "res/drawable/scankit_flash_selected_selector2.xml",
+    "size": 488
+  },
+  {
+    "name": "res/drawable/scankit_flash_selector.xml",
+    "size": 488
+  },
+  {
+    "name": "res/drawable/scankit_flashlight_layer_off.xml",
+    "size": 908
+  },
+  {
+    "name": "res/drawable/scankit_flashlight_layer_on.xml",
+    "size": 908
+  },
+  {
+    "name": "res/drawable/scankit_flashlight_off.webp",
+    "size": 884
+  },
+  {
+    "name": "res/drawable/scankit_flashlight_on.webp",
+    "size": 504
+  },
+  {
+    "name": "res/drawable/scankit_ic_back.webp",
+    "size": 8496
+  },
+  {
+    "name": "res/drawable/scankit_ic_back_mirroring.webp",
+    "size": 8658
+  },
+  {
+    "name": "res/drawable/scankit_ic_light_off.webp",
+    "size": 3326
+  },
+  {
+    "name": "res/drawable/scankit_ic_photo.webp",
+    "size": 24168
+  },
+  {
+    "name": "res/drawable/scankit_photo.webp",
+    "size": 854
+  },
+  {
+    "name": "res/drawable/scankit_scan_light.webp",
+    "size": 90
+  },
+  {
+    "name": "res/drawable/scankit_scan_tail.webp",
+    "size": 1280
+  },
+  {
+    "name": "res/drawable/tooltip_frame_dark.xml",
+    "size": 484
+  },
+  {
+    "name": "res/drawable/tooltip_frame_light.xml",
+    "size": 484
+  },
+  {
+    "name": "res/drawable-hdpi-v4/notification_oversize_large_icon_bg.png",
+    "size": 909
+  },
+  {
+    "name": "res/drawable-v21/abc_action_bar_item_background_material.xml",
+    "size": 264
+  },
+  {
+    "name": "res/drawable-v21/abc_btn_colored_material.xml",
+    "size": 1716
+  },
+  {
+    "name": "res/drawable-v21/abc_dialog_material_background.xml",
+    "size": 716
+  },
+  {
+    "name": "res/drawable-v21/abc_edit_text_material.xml",
+    "size": 1172
+  },
+  {
+    "name": "res/drawable-v21/abc_list_divider_material.xml",
+    "size": 516
+  },
+  {
+    "name": "res/drawable-v21/launch_background.xml",
+    "size": 548
+  },
+  {
+    "name": "res/drawable-v21/notification_action_background.xml",
+    "size": 1180
+  },
+  {
+    "name": "res/drawable-v23/abc_control_background_material.xml",
+    "size": 304
+  },
+  {
+    "name": "res/drawable-watch-v20/abc_dialog_material_background.xml",
+    "size": 372
+  },
+  {
+    "name": "res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+    "size": 316
+  },
+  {
+    "name": "res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+    "size": 328
+  },
+  {
+    "name": "res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+    "size": 316
+  },
+  {
+    "name": "res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+    "size": 328
+  },
+  {
+    "name": "res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+    "size": 320
+  },
+  {
+    "name": "res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+    "size": 320
+  },
+  {
+    "name": "res/interpolator/fast_out_slow_in.xml",
+    "size": 400
+  },
+  {
+    "name": "res/layout/abc_action_bar_title_item.xml",
+    "size": 872
+  },
+  {
+    "name": "res/layout/abc_action_menu_item_layout.xml",
+    "size": 768
+  },
+  {
+    "name": "res/layout/abc_action_menu_layout.xml",
+    "size": 576
+  },
+  {
+    "name": "res/layout/abc_action_mode_bar.xml",
+    "size": 464
+  },
+  {
+    "name": "res/layout/abc_action_mode_close_item_material.xml",
+    "size": 840
+  },
+  {
+    "name": "res/layout/abc_alert_dialog_button_bar_material.xml",
+    "size": 1584
+  },
+  {
+    "name": "res/layout/abc_alert_dialog_material.xml",
+    "size": 2648
+  },
+  {
+    "name": "res/layout/abc_alert_dialog_title_material.xml",
+    "size": 1560
+  },
+  {
+    "name": "res/layout/abc_cascading_menu_item_layout.xml",
+    "size": 1868
+  },
+  {
+    "name": "res/layout/abc_dialog_title_material.xml",
+    "size": 1116
+  },
+  {
+    "name": "res/layout/abc_expanded_menu_layout.xml",
+    "size": 388
+  },
+  {
+    "name": "res/layout/abc_list_menu_item_checkbox.xml",
+    "size": 528
+  },
+  {
+    "name": "res/layout/abc_list_menu_item_icon.xml",
+    "size": 780
+  },
+  {
+    "name": "res/layout/abc_list_menu_item_layout.xml",
+    "size": 1396
+  },
+  {
+    "name": "res/layout/abc_list_menu_item_radio.xml",
+    "size": 532
+  },
+  {
+    "name": "res/layout/abc_popup_menu_header_item_layout.xml",
+    "size": 848
+  },
+  {
+    "name": "res/layout/abc_popup_menu_item_layout.xml",
+    "size": 2072
+  },
+  {
+    "name": "res/layout/abc_screen_content_include.xml",
+    "size": 548
+  },
+  {
+    "name": "res/layout/abc_screen_simple.xml",
+    "size": 832
+  },
+  {
+    "name": "res/layout/abc_screen_simple_overlay_action_mode.xml",
+    "size": 792
+  },
+  {
+    "name": "res/layout/abc_screen_toolbar.xml",
+    "size": 1504
+  },
+  {
+    "name": "res/layout/abc_search_dropdown_item_icons_2line.xml",
+    "size": 1916
+  },
+  {
+    "name": "res/layout/abc_search_view.xml",
+    "size": 3472
+  },
+  {
+    "name": "res/layout/abc_select_dialog_material.xml",
+    "size": 1020
+  },
+  {
+    "name": "res/layout/abc_tooltip.xml",
+    "size": 1056
+  },
+  {
+    "name": "res/layout/activity_web_view.xml",
+    "size": 1256
+  },
+  {
+    "name": "res/layout/chrome_custom_tabs_layout.xml",
+    "size": 324
+  },
+  {
+    "name": "res/layout/custom_dialog.xml",
+    "size": 612
+  },
+  {
+    "name": "res/layout/floating_action_mode.xml",
+    "size": 708
+  },
+  {
+    "name": "res/layout/floating_action_mode_item.xml",
+    "size": 568
+  },
+  {
+    "name": "res/layout/image_frame.xml",
+    "size": 1088
+  },
+  {
+    "name": "res/layout/notification_template_part_chronometer.xml",
+    "size": 440
+  },
+  {
+    "name": "res/layout/notification_template_part_time.xml",
+    "size": 440
+  },
+  {
+    "name": "res/layout/preference.xml",
+    "size": 2352
+  },
+  {
+    "name": "res/layout/scankit_dialog_custom.xml",
+    "size": 2484
+  },
+  {
+    "name": "res/layout/scankit_dialog_layout.xml",
+    "size": 1396
+  },
+  {
+    "name": "res/layout/scankit_layout.xml",
+    "size": 552
+  },
+  {
+    "name": "res/layout/scankit_title_landscape.xml",
+    "size": 2804
+  },
+  {
+    "name": "res/layout/scankit_zxl_capture.xml",
+    "size": 3568
+  },
+  {
+    "name": "res/layout/scankit_zxl_capture_customed.xml",
+    "size": 620
+  },
+  {
+    "name": "res/layout/scankit_zxl_capture_new.xml",
+    "size": 5220
+  },
+  {
+    "name": "res/layout/select_dialog_item_material.xml",
+    "size": 640
+  },
+  {
+    "name": "res/layout/select_dialog_multichoice_material.xml",
+    "size": 864
+  },
+  {
+    "name": "res/layout/select_dialog_singlechoice_material.xml",
+    "size": 864
+  },
+  {
+    "name": "res/layout/support_simple_spinner_dropdown_item.xml",
+    "size": 464
+  },
+  {
+    "name": "res/layout-v21/notification_action.xml",
+    "size": 1052
+  },
+  {
+    "name": "res/layout-v21/notification_action_tombstone.xml",
+    "size": 1228
+  },
+  {
+    "name": "res/layout-v21/notification_template_custom_big.xml",
+    "size": 2456
+  },
+  {
+    "name": "res/layout-v21/notification_template_icon_group.xml",
+    "size": 988
+  },
+  {
+    "name": "res/layout-v26/abc_screen_toolbar.xml",
+    "size": 1560
+  },
+  {
+    "name": "res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+    "size": 1208
+  },
+  {
+    "name": "res/layout-watch-v20/abc_alert_dialog_title_material.xml",
+    "size": 1352
+  },
+  {
+    "name": "res/menu/menu_main.xml",
+    "size": 1632
+  },
+  {
+    "name": "res/mipmap-hdpi-v4/ic_launcher.png",
+    "size": 4512
+  },
+  {
+    "name": "res/mipmap-mdpi-v4/ic_launcher.png",
+    "size": 2556
+  },
+  {
+    "name": "res/mipmap-xhdpi-v4/ic_launcher.png",
+    "size": 7248
+  },
+  {
+    "name": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+    "size": 14547
+  },
+  {
+    "name": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+    "size": 23539
+  },
+  {
+    "name": "res/mipmap-xxxhdpi-v4/launch_image.png",
+    "size": 112116
+  },
+  {
+    "name": "res/mipmap-xxxhdpi-v4/scankit_back_mirroring.png",
+    "size": 260
+  },
+  {
+    "name": "res/mipmap-xxxhdpi-v4/scankit_ic_photo.webp",
+    "size": 3468
+  },
+  {
+    "name": "res/xml/flutter_image_picker_file_paths.xml",
+    "size": 284
+  },
+  {
+    "name": "res/xml/flutter_share_file_paths.xml",
+    "size": 396
+  },
+  {
+    "name": "res/xml/image_share_filepaths.xml",
+    "size": 308
+  },
+  {
+    "name": "res/xml/provider_paths.xml",
+    "size": 400
+  },
+  {
+    "name": "res/xml/splits0.xml",
+    "size": 10216
+  },
+  {
+    "name": "resources.arsc",
+    "size": 123924
+  },
+  {
+    "name": "text-recognition-bundled-common.properties",
+    "size": 100
+  },
+  {
+    "name": "text-recognition-chinese.properties",
+    "size": 86
+  },
+  {
+    "name": "text-recognition-japanese.properties",
+    "size": 88
+  },
+  {
+    "name": "text-recognition-korean.properties",
+    "size": 84
+  },
+  {
+    "name": "text-recognition.properties",
+    "size": 70
+  },
+  {
+    "name": "transport-api.properties",
+    "size": 62
+  },
+  {
+    "name": "transport-backend-cct.properties",
+    "size": 78
+  },
+  {
+    "name": "transport-runtime.properties",
+    "size": 70
+  },
+  {
+    "name": "vision-common.properties",
+    "size": 64
+  },
+  {
+    "name": "vision-interfaces.properties",
+    "size": 72
+  },
+  {
+    "name": "stamp-cert-sha256",
+    "size": 32
+  }
+]

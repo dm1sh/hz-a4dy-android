@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.a4dy.print.RendererAndImportTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-11-18T00:26:37.381Z" hostname="e2b.local" time="6.64">
+  <properties/>
+  <testcase name="rejectsFileAndNetworkUris" classname="app.a4dy.print.RendererAndImportTest" time="3.78"/>
+  <testcase name="smallTestHasLowBoundedDimensionsAndPreview" classname="app.a4dy.print.RendererAndImportTest" time="2.282"/>
+  <testcase name="rejectsEmptyAndOversizedNotes" classname="app.a4dy.print.RendererAndImportTest" time="0.052"/>
+  <testcase name="mirrorAndRotationTransformOutput" classname="app.a4dy.print.RendererAndImportTest" time="0.289"/>
+  <testcase name="invalidAndEmptyInputsLeaveNoCachedFile" classname="app.a4dy.print.RendererAndImportTest" time="0.027"/>
+  <testcase name="fillAndMarginsAreVisible" classname="app.a4dy.print.RendererAndImportTest" time="0.117"/>
+  <testcase name="imageImportSniffsContentNotExtensionAndRenders" classname="app.a4dy.print.RendererAndImportTest" time="0.09"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,52 @@
+$IN_APP_WEBVIEW_RESULT_UUID
+  })($IN_APP_WEBVIEW_FUNCTION_ARGUMENT_VALUES).then(function(value) {    window.flutter_inappwebview.callHandler('callAsyncJavaScript', {'value': value, 'error': null, 'resultUuid': '$IN_APP_WEBVIEW_RESULT_UUID'});  }).catch(function(error) {    window.flutter_inappwebview.callHandler('callAsyncJavaScript', {'value': null, 'error': error + '', 'resultUuid': '$IN_APP_WEBVIEW_RESULT_UUID'});  });  return null;})($IN_APP_WEBVIEW_FUNCTION_ARGUMENTS_OBJ);
+(Bluetooth permission missing in manifest
+BluetoothPortPrint
+BluetoothService
+Close BluetoothSocket
+$Landroid/bluetooth/BluetoothAdapter;
+#Landroid/bluetooth/BluetoothDevice;
+$Landroid/bluetooth/BluetoothManager;
+)Landroid/bluetooth/BluetoothServerSocket;
+#Landroid/bluetooth/BluetoothSocket;
+"Lcom/netum/scanprint/MainActivity;
+*Lcom/netum/scanprint/PrintOptions$Builder;
+"Lcom/netum/scanprint/PrintOptions;
+ Lcom/netum/scanprint/R$drawable;
+Lcom/netum/scanprint/R$mipmap;
+Lcom/netum/scanprint/R$string;
+Lcom/netum/scanprint/R$style;
+Lcom/netum/scanprint/R;
+%Lcom/netum/scanprint/ScanPrintNative;
+Ljava/util/UUID;
+VAR_RESULT_UUID
+Vtr_GetBluetoothMac
+Vtr_GetBluetoothMac 
+Vtr_GetBluetoothName
+Vtr_GetBluetoothName 
+;android.bluetooth.a2dp.profile.action.PLAYING_STATE_CHANGED
+3android.bluetooth.adapter.action.DISCOVERY_FINISHED
+2android.bluetooth.adapter.action.DISCOVERY_STARTED
+2android.bluetooth.adapter.action.SCAN_MODE_CHANGED
+.android.bluetooth.adapter.action.STATE_CHANGED
+%android.bluetooth.adapter.extra.STATE
+-android.bluetooth.device.action.ACL_CONNECTED
+0android.bluetooth.device.action.ACL_DISCONNECTED
+8android.bluetooth.device.action.ACL_DISCONNECT_REQUESTED
+2android.bluetooth.device.action.BOND_STATE_CHANGED
+%android.bluetooth.device.action.FOUND
+,android.bluetooth.device.action.NAME_CHANGED
+)android.bluetooth.device.extra.BOND_STATE
+%android.bluetooth.device.extra.DEVICE
+#android.bluetooth.device.extra.RSSI
+bluetooth
+bluetoothName
+createRfcommSocket
+!createRfcommSocketToServiceRecord
++createRfcommSocketToServiceRecord exception
++error: write failed, bluetooth disconnected
+isBluetoothOpened
+"listenUsingRfcommWithServiceRecord
+randomUUID
+scanprint
+var $IN_APP_WEBVIEW_VARIABLE_RANDOM_NAME = null;try {  $IN_APP_WEBVIEW_VARIABLE_RANDOM_NAME = eval($IN_APP_WEBVIEW_PLACEHOLDER_VALUE);} catch(e) {  console.error(e);}window.flutter_inappwebview.callHandler('evaluateJavaScriptWithContentWorld', {'value': $IN_APP_WEBVIEW_VARIABLE_RANDOM_NAME, 'resultUuid': '$IN_APP_WEBVIEW_RESULT_UUID'});

@@ -1,0 +1,141 @@
+/home/user/hz-a4dy-android/app/build.gradle.kts:43: Warning: A newer version of androidx.compose:compose-bom than 2025.04.01 is available: 2026.09.00 [GradleDependency]
+    implementation(platform("androidx.compose:compose-bom:2025.04.01"))
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/build.gradle.kts:44: Warning: A newer version of androidx.activity:activity-compose than 1.10.1 is available: 1.13.0 [GradleDependency]
+    implementation("androidx.activity:activity-compose:1.10.1")
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/build.gradle.kts:46: Warning: A newer version of androidx.lifecycle:lifecycle-runtime-compose than 2.9.0 is available: 2.11.0 [GradleDependency]
+    implementation("androidx.lifecycle:lifecycle-runtime-compose:2.9.0")
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/build.gradle.kts:47: Warning: A newer version of androidx.lifecycle:lifecycle-viewmodel-compose than 2.9.0 is available: 2.11.0 [GradleDependency]
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.9.0")
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/build.gradle.kts:49: Warning: A newer version of androidx.core:core-ktx than 1.16.0 is available: 1.19.1 [GradleDependency]
+    implementation("androidx.core:core-ktx:1.16.0")
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/build.gradle.kts:52: Warning: A newer version of androidx.test:core than 1.6.1 is available: 1.7.0 [GradleDependency]
+    testImplementation("androidx.test:core:1.6.1")
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/build.gradle.kts:54: Warning: A newer version of androidx.test:runner than 1.6.2 is available: 1.7.0 [GradleDependency]
+    androidTestImplementation("androidx.test:runner:1.6.2")
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/build.gradle.kts:55: Warning: A newer version of androidx.test.ext:junit than 1.2.1 is available: 1.3.0 [GradleDependency]
+    androidTestImplementation("androidx.test.ext:junit:1.2.1")
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "GradleDependency":
+   This detector looks for usages of libraries where the version you are using
+   is not the current stable release. Using older versions is fine, and there
+   are cases where you deliberately want to stick with an older version.
+   However, you may simply not be aware that a more recent version is
+   available, and that is what this lint check helps find.
+
+/home/user/hz-a4dy-android/app/build.gradle.kts:48: Warning: A newer version of org.jetbrains.kotlinx:kotlinx-coroutines-android than 1.10.2 is available: 1.11.0 [NewerVersionAvailable]
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/build.gradle.kts:51: Warning: A newer version of org.robolectric:robolectric than 4.14.1 is available: 4.18 [NewerVersionAvailable]
+    testImplementation("org.robolectric:robolectric:4.14.1")
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "NewerVersionAvailable":
+   This detector checks with a central repository to see if there are newer
+   versions available for the dependencies used by this project. This is
+   similar to the GradleDependency check, which checks for newer versions
+   available in the Android SDK tools and libraries, but this works with any
+   MavenCentral dependency, and connects to the library every time, which
+   makes it more flexible but also much slower.
+
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/ui/A4App.kt:332: Warning: Use the KTX extension function String.toUri instead? [UseKtx]
+                TextButton(onClick = { val context = model.getApplication<android.app.Application>(); context.startActivity(Intent(Settings.ACTION_APPLICATION_DETAILS_SETTINGS, android.net.Uri.parse("package:${context.packageName}")).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)) }) { Text("Open app permission settings") }
+                                                                                                                                                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/data/AppStore.kt:53: Warning: Use the KTX extension function SharedPreferences.edit instead? [UseKtx]
+        prefs.edit().putString("options", j.toString()).apply()
+        ~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/data/AppStore.kt:57: Warning: Use the KTX extension function SharedPreferences.edit instead? [UseKtx]
+        prefs.edit().putString("address", value?.address).putString("printerName", value?.name).apply()
+        ~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/data/AppStore.kt:59: Warning: Use the KTX extension function SharedPreferences.edit instead? [UseKtx]
+    fun setInsecure(value: Boolean) { _insecure.value = value; prefs.edit().putBoolean("insecureFallback", value).apply() }
+                                                               ~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/data/AppStore.kt:60: Warning: Use the KTX extension function SharedPreferences.edit instead? [UseKtx]
+    fun setDynamicColors(value: Boolean) { _dynamicColors.value = value; prefs.edit().putBoolean("dynamicColors", value).apply() }
+                                                                         ~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/data/AppStore.kt:65: Warning: Use the KTX extension function SharedPreferences.edit instead? [UseKtx]
+        prefs.edit().putString("history", a.toString()).apply()
+        ~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/data/AppStore.kt:67: Warning: Use the KTX extension function SharedPreferences.edit instead? [UseKtx]
+    fun clearHistory() { _history.value = emptyList(); prefs.edit().remove("history").apply() }
+                                                       ~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/render/PageRenderer.kt:27: Warning: Use the KTX function createBitmap instead? [UseKtx]
+        val target = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/render/PageRenderer.kt:47: Warning: Use the KTX extension function Canvas.withClip instead? [UseKtx]
+                    val canvas = Canvas(target); canvas.save(); canvas.clipRect(clip); canvas.concat(matrix)
+                                                 ~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/render/PageRenderer.kt:57: Warning: Use the KTX function createBitmap instead? [UseKtx]
+        val full = Bitmap.createBitmap(page.width, page.height, Bitmap.Config.ARGB_8888)
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/render/PageRenderer.kt:64: Warning: Use the KTX extension function Bitmap.scale instead? [UseKtx]
+        val scaled = Bitmap.createScaledBitmap(full, 840, (840.0 * page.height / page.width).roundToInt(), false)
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/user/hz-a4dy-android/app/src/main/java/app/a4dy/print/render/PageRenderer.kt:85: Warning: Use the KTX function createBitmap instead? [UseKtx]
+        val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "UseKtx":
+   The Android KTX libraries decorates the Android platform SDK as well as
+   various libraries with more convenient extension functions available from
+   Kotlin, allowing you to use default parameters, named parameters, and
+   more.
+
+   Available options:
+
+   **remove-defaults** (default is true):
+   Whether to skip arguments that match the defaults provided by the extension.
+
+   Extensions often provide default values for some of the parameters. For example:
+   ```kotlin
+   fun Path.readLines(charset: Charset = Charsets.UTF_8): List<String> { return Files.readAllLines(this, charset) }
+   ```
+   This lint check will by default automatically omit parameters that match the default, so if your code was calling
+
+   ```kotlin
+   Files.readAllLines(file, Charset.UTF_8)
+   ```
+   lint would replace this with
+   ```kotlin
+   file.readLines()
+   ```
+   rather than
+
+   ```kotlin
+   file.readLines(Charset.UTF_8
+   ```
+   You can turn this behavior off using this option.
+
+   To configure this option, use a `lint.xml` file with an <option> like this:
+
+   ```xml
+   <lint>
+       <issue id="UseKtx">
+           <option name="remove-defaults" value="true" />
+       </issue>
+   </lint>
+   ```
+
+   **require-present** (default is true):
+   Whether to only offer extensions already available.
+
+   This option lets you only have lint suggest extension replacements if those extensions are already available on the class path (in other words, you're already depending on the library containing the extension method.)
+
+   To configure this option, use a `lint.xml` file with an <option> like this:
+
+   ```xml
+   <lint>
+       <issue id="UseKtx">
+           <option name="require-present" value="true" />
+       </issue>
+   </lint>
+   ```
+
+0 errors, 22 warnings

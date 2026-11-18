@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.a4dy.core.RasterTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-11-18T00:26:34.564Z" hostname="e2b.local" time="0.028">
+  <properties/>
+  <testcase name="reversedRange" classname="app.a4dy.core.RasterTest" time="0.011"/>
+  <testcase name="mirrorHasWhitePadding" classname="app.a4dy.core.RasterTest" time="0.004"/>
+  <testcase name="diffusionPreservesSolidBlackAndWhite" classname="app.a4dy.core.RasterTest" time="0.001"/>
+  <testcase name="pageDimensions" classname="app.a4dy.core.RasterTest" time="0.001"/>
+  <testcase name="jobLimit" classname="app.a4dy.core.RasterTest" time="0.0"/>
+  <testcase name="invalidRotation" classname="app.a4dy.core.RasterTest" time="0.0"/>
+  <testcase name="bitOrderAndRightPadding" classname="app.a4dy.core.RasterTest" time="0.0"/>
+  <testcase name="malformedRange" classname="app.a4dy.core.RasterTest" time="0.0"/>
+  <testcase name="cancellationIsCheckedEveryRow" classname="app.a4dy.core.RasterTest" time="0.001"/>
+  <testcase name="diffusionMakesMidGrayDots" classname="app.a4dy.core.RasterTest" time="0.002"/>
+  <testcase name="inclusiveThreshold" classname="app.a4dy.core.RasterTest" time="0.0"/>
+  <testcase name="zeroPage" classname="app.a4dy.core.RasterTest" time="0.001"/>
+  <testcase name="negativeDoesNotBlackenPadding" classname="app.a4dy.core.RasterTest" time="0.001"/>
+  <testcase name="alphaIsCompositedOnWhite" classname="app.a4dy.core.RasterTest" time="0.0"/>
+  <testcase name="selectionAndCollation" classname="app.a4dy.core.RasterTest" time="0.002"/>
+  <testcase name="selectionOutOfRange" classname="app.a4dy.core.RasterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

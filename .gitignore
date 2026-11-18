@@ -1,0 +1,26 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+# No signing material, credentials or generated packages in git.
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.key
+*.pem
+*.apk
+*.apks
+*.aab
+.env
+.env.*
+keystore.properties
+signing.properties
+*signing-backup*
+**/actions-secrets.json
+**/credentials.json
+artifacts/
+__pycache__/
+.idea/
+*.iml
+**/test-artifacts/

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-feature android:name="android.hardware.bluetooth" android:required="false" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- Deliberately no INTERNET, location, all-files, photos-library or advertising permission. -->
+    <application android:name=".A4Application" android:label="A4DY Print" android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher" android:allowBackup="false" android:dataExtractionRules="@xml/data_extraction_rules" android:theme="@style/Theme.A4Print"
+        android:supportsRtl="true" android:usesCleartextTraffic="false">
+        <activity android:name=".MainActivity" android:exported="true" android:launchMode="singleTop">
+            <intent-filter><action android:name="android.intent.action.MAIN" /><category android:name="android.intent.category.LAUNCHER" /></intent-filter>
+            <intent-filter><action android:name="android.intent.action.VIEW" /><category android:name="android.intent.category.DEFAULT" /><data android:scheme="content" android:mimeType="application/pdf" /><data android:scheme="content" android:mimeType="image/*" /></intent-filter>
+            <intent-filter><action android:name="android.intent.action.SEND" /><category android:name="android.intent.category.DEFAULT" /><data android:mimeType="application/pdf" /><data android:mimeType="image/*" /><data android:mimeType="text/plain" /></intent-filter>
+            <intent-filter><action android:name="android.intent.action.SEND_MULTIPLE" /><category android:name="android.intent.category.DEFAULT" /><data android:mimeType="application/pdf" /><data android:mimeType="image/*" /></intent-filter>
+        </activity>
+        <service android:name=".service.ForegroundPrintService" android:exported="false" android:foregroundServiceType="connectedDevice" />
+        <service android:name=".service.A4PrintService" android:exported="true" android:permission="android.permission.BIND_PRINT_SERVICE" android:label="A4DY Bluetooth printing">
+            <intent-filter><action android:name="android.printservice.PrintService" /></intent-filter>
+            <meta-data android:name="android.printservice" android:resource="@xml/print_service" />
+        </service>
+    </application>
+</manifest>

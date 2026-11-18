@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.a4dy.print.RuntimeTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-18T00:26:49.009Z" hostname="e2b.local" time="3.638">
+  <properties/>
+  <testcase name="jobsAreSerializedAcrossAppAndPrintService" classname="app.a4dy.print.RuntimeTest" time="3.19"/>
+  <testcase name="diagnosticsExcludePrivateDocumentNameAndAddress" classname="app.a4dy.print.RuntimeTest" time="0.059"/>
+  <testcase name="invalidSelectionRejectedBeforeAnyJobStarts" classname="app.a4dy.print.RuntimeTest" time="0.046"/>
+  <testcase name="cancellationClosesLinkAndStopsRemainingPages" classname="app.a4dy.print.RuntimeTest" time="0.09"/>
+  <testcase name="offlineExportUsesIdenticalPacketsAndNeverTouchesBluetooth" classname="app.a4dy.print.RuntimeTest" time="0.067"/>
+  <testcase name="pageFailureIsNotRetried" classname="app.a4dy.print.RuntimeTest" time="0.057"/>
+  <testcase name="collatedOrderAndNoExtraHardwareCopies" classname="app.a4dy.print.RuntimeTest" time="0.059"/>
+  <testcase name="unconfirmedReadyStopsWithoutAutomaticallyResending" classname="app.a4dy.print.RuntimeTest" time="0.041"/>
+  <testcase name="notReadyAtStartSendsNoPage" classname="app.a4dy.print.RuntimeTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

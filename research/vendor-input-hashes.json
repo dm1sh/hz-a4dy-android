@@ -1,0 +1,8 @@
+{
+  "base_apk_sha256": "d3ed4870762173fed497b7e6ada2a4f66a95bd9f1e1849420369dbb17c41b45c",
+  "arm64_split_sha256": "aa0bfb48f125e341fb54c4959d0ae15731f56079a6893b883c4290a86a24b4dd",
+  "origin": "https://pixeldrain.com/u/hPCqnVqn",
+  "vendor_app_version": "HyPrint 1.4.9",
+  "binary_cache": "/home/user/.cache/hyprint",
+  "note": "Vendor binaries are references only, not part of the replacement app."
+}
